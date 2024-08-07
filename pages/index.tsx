@@ -15,7 +15,7 @@ import { FaCartArrowDown, FaShippingFast } from "react-icons/fa";
 const Home = () => {
   return (
     <>
-      <PageTemplate title="Home - Collosal">
+      <PageTemplate title="Gulerworks">
         {/* Banner Section */}
         <section
           className="flex flex-col gap-10 items-center"
