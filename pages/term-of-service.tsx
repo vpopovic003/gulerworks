@@ -514,7 +514,7 @@ const TermOfService = () => {
               Notice of Dispute, which is a written statement that sets forth
               the name, address, and contact information of the party giving it,
               the facts giving rise to the dispute, and the relief requested.
-              You must send any Notice of Dispute via email to: 
+              You must send any Notice of Dispute via email to:
               <a>office@gulerworks.com</a>. Gulerworks will send any Notice of
               Dispute to you by mail to your address if we have it, or otherwise
               to your email address. You and Gulerworks will attempt to resolve
