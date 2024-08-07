@@ -28,11 +28,7 @@ const TermOfService = () => {
               signify that you have read, understood, and agree to our
               collection, storage, use, and disclosure of your personal
               information as described in this Privacy Policy and our Terms of
-              Service. This Privacy Policy was created with{" "}
-              <a href="https://termify.io" target="_blank">
-                Termify
-              </a>
-              .
+              Service.
             </p>
 
             <h1 className="text-2xl">Definitions and key terms</h1>
