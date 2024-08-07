@@ -62,13 +62,12 @@ const Home = () => {
             />
           </div>
         </section>
-        {/* Logo List */}
-        <LogoList />
-        {/* How We Work */}
+        <LineDivider />
+        {/* How we work */}
         <section className="grid grid-cols-1 gap-6 sm:gap-8 place-items-center lg:grid-cols-2">
           <aside className="w-full h-[400px] relative" data-aos="fade-right">
             <Image
-              src={"/images/how-we-work-illustration.svg"}
+              src={"/images/ecommerce.svg"}
               layout="fill"
               objectFit="fill"
               alt="Structured plan"
@@ -79,24 +78,40 @@ const Home = () => {
             data-aos="fade-left"
           >
             <SectionSentence
-              title="Everything is well planned, well designed and developed wholeheartedly"
-              paragraph="Careful planning makes us confident, developed with best practices so that the project can be maintained. We always test projects before they are shipped."
+              title="Everything is well planned, expertly designed, and passionately developed to enhance your shopping experience."
+              paragraph="At Gulerworks LTD, we excel in the world of eCommerce, offering an extensive range of quality products and exceptional service to our customers."
               badge="HOW WE WORK"
             />
           </aside>
         </section>
-        {/* Our Teams */}
+
+        {/* Our Brands */}
+        <section className="flex flex-col gap-16 items-center">
+          <div
+            className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12"
+            data-aos="zoom-in-up"
+          >
+            <SectionSentence
+              title="Discover the Excellence Behind Our Trusted Brands"
+              badge="OUR BRANDS"
+            />
+          </div>
+        </section>
+        {/* Logo List */}
+        <LogoList />
+
+        {/* Our Team */}
         <section className="grid grid-cols-1 gap-6 sm:gap-8 place-items-center lg:grid-cols-2">
           <aside className="text-center sm:w-10/12 lg:text-left lg:w-full">
             <div className="space-y-12" data-aos="fade-right">
               <SectionSentence
-                title="We're a team of designers, engineers and analysts"
-                paragraph="Our team consists of many creative people. We are committed to maintaining quality work as well as speed. These creative people work together to create maximum work results."
+                title="We're a team of product managers, developers and marketing specialists."
+                paragraph="At Gulerworks LTD, our dedicated team is the backbone of our eCommerce success. Together, we work tirelessly to deliver excellence at every stage of your shopping journey."
                 badge="OUR TEAM"
               />
               <ButtonLink
-                value="See Our Teams"
-                href="/teams"
+                value="See Our Team"
+                href="/about"
                 size="small"
                 color="white"
                 style="light"
@@ -108,7 +123,7 @@ const Home = () => {
             data-aos="fade-left"
           >
             <Image
-              src={"/images/team-illustration.svg"}
+              src={"/images/team.svg"}
               layout="fill"
               objectFit="fill"
               alt="Code editor and UI Editing popup"
@@ -116,98 +131,8 @@ const Home = () => {
           </aside>
         </section>
         <LineDivider />
-        {/* Our Projects */}
-        <section className="flex flex-col gap-16 items-center">
-          <div
-            className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12"
-            data-aos="zoom-in-up"
-          >
-            <SectionSentence
-              title="We have completed many amazing projects that you will not believe"
-              badge="PROJECTS"
-            />
-          </div>
-          <div className="w-full grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-5">
-            <div data-aos="flip-left">
-              <ProjectCard
-                title="The Desktop App Landing Page"
-                description="A landing page for desktop app"
-              />
-            </div>
-            <div data-aos="flip-right">
-              <ProjectCard
-                title="The Mobile App Landing Page"
-                description="A landing page for mobile app"
-                bottomSquareSize="big"
-              />
-            </div>
-          </div>
-        </section>
-        {/* Prices */}
-        <section className="flex flex-col gap-16 items-center">
-          <div
-            className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12"
-            data-aos="zoom-in-up"
-          >
-            <SectionSentence
-              title="What do you need? Choose a service that can help you"
-              badge="GET STARTED"
-            />
-          </div>
-          <div className="w-full grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">
-            <div data-aos="fade-up-right">
-              <PricingCard
-                price="1200$"
-                title="UI Design"
-                features={[
-                  "10 design pages",
-                  "Well-documented",
-                  "4 revisions",
-                  "$100/additional page",
-                ]}
-              />
-            </div>
-            <div data-aos="fade-up" data-aos-delay="300">
-              <PricingCard
-                price="5000$"
-                title="Development"
-                features={[
-                  "Web & Mobile",
-                  "Well-documented",
-                  "8 revisions",
-                  "$1000/additional page",
-                ]}
-              />
-            </div>
-            <div data-aos="fade-up-left">
-              <PricingCard
-                price="3000$"
-                title="Maintenance"
-                features={[
-                  "Daily backup",
-                  "3 hours of maintenance",
-                  "Including fixing",
-                  "$50/additional hour",
-                ]}
-              />
-            </div>
-          </div>
-        </section>
-        {/* Testimonial */}
-        <section className="flex flex-col gap-16 items-center">
-          <div
-            className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12"
-            data-aos="zoom-in-up"
-          >
-            <SectionSentence
-              title="What do our clients say that we never let down?"
-              badge="TESTIMONIAL"
-            />
-          </div>
-          <div className="w-full" data-aos="fade-up">
-            <TestimonialList />
-          </div>
-        </section>
+
+        {/* How We Work */}
       </PageTemplate>
     </>
   );

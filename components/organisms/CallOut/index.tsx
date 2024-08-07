@@ -1,7 +1,7 @@
-import ButtonLink from 'components/atoms/Button/ButtonLink'
-import LineDivider from 'components/atoms/LineDivider'
-import SectionSentence from 'components/molecules/SectionSentence'
-import React from 'react'
+import ButtonLink from "components/atoms/Button/ButtonLink";
+import LineDivider from "components/atoms/LineDivider";
+import SectionSentence from "components/molecules/SectionSentence";
+import React from "react";
 
 const CallOut = () => {
   return (
@@ -13,12 +13,11 @@ const CallOut = () => {
         </div>
         <div className="flex flex-col gap-5 w-full sm:w-fit sm:flex-row lg:w-full lg:justify-end">
           <ButtonLink value="Send Quote" href="/quote" />
-          <ButtonLink value="Ask Us" color="white" style="light" href="/faq" />
         </div>
       </section>
       <LineDivider />
     </>
-  )
-}
+  );
+};
 
-export default CallOut
+export default CallOut;
