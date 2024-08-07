@@ -41,7 +41,7 @@ const Contact = () => {
               />
             </div>
           </aside>
-          <aside
+          {/* <aside
             className="w-full sm:w-10/12 md:w-8/12 lg:w-full lg:flex lg:justify-end"
             data-aos="fade-down-left"
           >
@@ -54,7 +54,7 @@ const Contact = () => {
               <TextAreaGroup label="Message" />
               <Button value="Send Message" />
             </div>
-          </aside>
+          </aside> */}
         </section>
       </PageTemplate>
     </>
