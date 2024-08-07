@@ -48,8 +48,9 @@ const TermOfService = () => {
             </p>
             <p>
               These Terms & Conditions are a contract between you and Gulerworks
-              (referred to in these Terms & Conditions as &quot;Gulerworks&quot;, &quot;us&quot;,
-              &quot;we&quot; or &quot;our&quot;), the provider of the Gulerworks website and the
+              (referred to in these Terms & Conditions as
+              &quot;Gulerworks&quot;, &quot;us&quot;, &quot;we&quot; or
+              &quot;our&quot;), the provider of the Gulerworks website and the
               services accessible from the Gulerworks website (which are
               collectively referred to in these Terms & Conditions as the
               &quot;Gulerworks Service&quot;).
@@ -57,11 +58,11 @@ const TermOfService = () => {
             <p>
               You are agreeing to be bound by these Terms & Conditions. If you
               do not agree to these Terms & Conditions, please do not use the
-              Gulerworks Service. In these Terms & Conditions, &quot;you&quot; refers both
-              to you as an individual and to the entity you represent. If you
-              violate any of these Terms & Conditions, we reserve the right to
-              cancel your account or block access to your account without
-              notice.
+              Gulerworks Service. In these Terms & Conditions, &quot;you&quot;
+              refers both to you as an individual and to the entity you
+              represent. If you violate any of these Terms & Conditions, we
+              reserve the right to cancel your account or block access to your
+              account without notice.
             </p>
 
             <h1 className="text-2xl">Definitions and key terms</h1>
@@ -85,7 +86,7 @@ const TermOfService = () => {
               </li>
               <li>
                 Country: where Gulerworks or the owners/founders of Gulerworks
-                are based, in this case is{&quot; &quot;}
+                are based, in this case is United Kingdom
               </li>
               <li>
                 Device: any internet connected device such as a phone, tablet,
@@ -103,8 +104,8 @@ const TermOfService = () => {
                 content or whose products or services we think may interest you.
               </li>
               <li>
-                Website: Gulerworks&apos;s site, which can be accessed via this URL:
-                gulerworks.com
+                Website: Gulerworks&apos;s site, which can be accessed via this
+                URL: gulerworks.com
               </li>
               <li>
                 You: a person or entity that is registered with Gulerworks to
@@ -146,17 +147,17 @@ const TermOfService = () => {
             </p>
             <p>
               If, for any reason, You are not completely satisfied with any good
-              or service that we provide, don&apos;t hesitate to contact us and we
-              will discuss any of the issues you are going through with our
+              or service that we provide, don&apos;t hesitate to contact us and
+              we will discuss any of the issues you are going through with our
               product.
             </p>
 
             <h1 className="text-2xl">Your Suggestions</h1>
             <p>
               Any feedback, comments, ideas, improvements or suggestions
-              (collectively, &quot;Suggestions&quot;) provided by you to Gulerworks with
-              respect to the website shall remain the sole and exclusive
-              property of Gulerworks.
+              (collectively, &quot;Suggestions&quot;) provided by you to
+              Gulerworks with respect to the website shall remain the sole and
+              exclusive property of Gulerworks.
             </p>
             <p>
               Gulerworks shall be free to use, copy, modify, publish, or
@@ -166,11 +167,11 @@ const TermOfService = () => {
 
             <h1 className="text-2xl">Your Consent</h1>
             <p>
-              We&apos;ve updated our Terms & Conditions to provide you with complete
-              transparency into what is being set when you visit our site and
-              how it&apos;s being used. By using our website, registering an account,
-              or making a purchase, you hereby consent to our Terms &
-              Conditions.
+              We&apos;ve updated our Terms & Conditions to provide you with
+              complete transparency into what is being set when you visit our
+              site and how it&apos;s being used. By using our website,
+              registering an account, or making a purchase, you hereby consent
+              to our Terms & Conditions.
             </p>
 
             <h1 className="text-2xl">Links to Other Websites</h1>
@@ -191,18 +192,19 @@ const TermOfService = () => {
 
             <h1 className="text-2xl">Cookies</h1>
             <p>
-              Gulerworks uses &quot;Cookies&quot; to identify the areas of our website
-              that you have visited. A Cookie is a small piece of data stored on
-              your computer or mobile device by your web browser. We use Cookies
-              to enhance the performance and functionality of our website but
-              are non-essential to their use. However, without these cookies,
-              certain functionality like videos may become unavailable or you
-              would be required to enter your login details every time you visit
-              the website as we would not be able to remember that you had
-              logged in previously. Most web browsers can be set to disable the
-              use of Cookies. However, if you disable Cookies, you may not be
-              able to access functionality on our website correctly or at all.
-              We never place Personally Identifiable Information in Cookies.
+              Gulerworks uses &quot;Cookies&quot; to identify the areas of our
+              website that you have visited. A Cookie is a small piece of data
+              stored on your computer or mobile device by your web browser. We
+              use Cookies to enhance the performance and functionality of our
+              website but are non-essential to their use. However, without these
+              cookies, certain functionality like videos may become unavailable
+              or you would be required to enter your login details every time
+              you visit the website as we would not be able to remember that you
+              had logged in previously. Most web browsers can be set to disable
+              the use of Cookies. However, if you disable Cookies, you may not
+              be able to access functionality on our website correctly or at
+              all. We never place Personally Identifiable Information in
+              Cookies.
             </p>
 
             <h1 className="text-2xl">Changes To Our Terms & Conditions</h1>
@@ -268,7 +270,8 @@ const TermOfService = () => {
             <p>
               Third-Party Services and links thereto are provided solely as a
               convenience to you and you access and use them entirely at your
-              own risk and subject to such third parties&apos; terms and conditions.
+              own risk and subject to such third parties&apos; terms and
+              conditions.
             </p>
 
             <h1 className="text-2xl">Term and Termination</h1>
@@ -292,10 +295,10 @@ const TermOfService = () => {
               website and delete all copies of the website from your computer.
             </p>
             <p>
-              Termination of this Agreement will not limit any of Gulerworks&apos;s
-              rights or remedies at law or in equity in case of breach by you
-              (during the term of this Agreement) of any of your obligations
-              under the present Agreement.
+              Termination of this Agreement will not limit any of
+              Gulerworks&apos;s rights or remedies at law or in equity in case
+              of breach by you (during the term of this Agreement) of any of
+              your obligations under the present Agreement.
             </p>
 
             <h1 className="text-2xl">Copyright Infringement Notice</h1>
@@ -319,39 +322,39 @@ const TermOfService = () => {
               You agree to indemnify and hold Gulerworks and its parents,
               subsidiaries, affiliates, officers, employees, agents, partners
               and licensors (if any) harmless from any claim or demand,
-              including reasonable attorneys&apos; fees, due to or arising out of
-              your: (a) use of the website; (b) violation of this Agreement or
-              any law or regulation; or (c) violation of any right of a third
+              including reasonable attorneys&apos; fees, due to or arising out
+              of your: (a) use of the website; (b) violation of this Agreement
+              or any law or regulation; or (c) violation of any right of a third
               party.
             </p>
 
             <h1 className="text-2xl">No Warranties</h1>
             <p>
-              The website is provided to you &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; and with
-              all faults and defects without warranty of any kind. To the
-              maximum extent permitted under applicable law, Gulerworks, on its
-              own behalf and on behalf of its affiliates and its and their
-              respective licensors and service providers, expressly disclaims
-              all warranties, whether express, implied, statutory or otherwise,
-              with respect to the website, including all implied warranties of
-              merchantability, fitness for a particular purpose, title and
-              non-infringement, and warranties that may arise out of course of
-              dealing, course of performance, usage or trade practice. Without
-              limitation to the foregoing, Gulerworks provides no warranty or
-              undertaking, and makes no representation of any kind that the
-              website will meet your requirements, achieve any intended results,
-              be compatible or work with any other software, , systems or
-              services, operate without interruption, meet any performance or
-              reliability standards or be error free or that any errors or
-              defects can or will be corrected.
+              The website is provided to you &quot;AS IS&quot; and &quot;AS
+              AVAILABLE&quot; and with all faults and defects without warranty
+              of any kind. To the maximum extent permitted under applicable law,
+              Gulerworks, on its own behalf and on behalf of its affiliates and
+              its and their respective licensors and service providers,
+              expressly disclaims all warranties, whether express, implied,
+              statutory or otherwise, with respect to the website, including all
+              implied warranties of merchantability, fitness for a particular
+              purpose, title and non-infringement, and warranties that may arise
+              out of course of dealing, course of performance, usage or trade
+              practice. Without limitation to the foregoing, Gulerworks provides
+              no warranty or undertaking, and makes no representation of any
+              kind that the website will meet your requirements, achieve any
+              intended results, be compatible or work with any other software, ,
+              systems or services, operate without interruption, meet any
+              performance or reliability standards or be error free or that any
+              errors or defects can or will be corrected.
             </p>
             <p>
               Without limiting the foregoing, neither Gulerworks nor any
-              Gulerworks&apos;s provider makes any representation or warranty of any
-              kind, express or implied: (i) as to the operation or availability
-              of the website, or the information, content, and materials or
-              products included thereon; (ii) that the website will be
-              uninterrupted or error-free; (iii) as to the accuracy,
+              Gulerworks&apos;s provider makes any representation or warranty of
+              any kind, express or implied: (i) as to the operation or
+              availability of the website, or the information, content, and
+              materials or products included thereon; (ii) that the website will
+              be uninterrupted or error-free; (iii) as to the accuracy,
               reliability, or currency of any information or content provided
               through the website; or (iv) that the website, its servers, the
               content, or e-mails sent from or on behalf of Gulerworks are free
@@ -411,21 +414,21 @@ const TermOfService = () => {
               remaining provisions of this Agreement, which shall remain in full
               force and effect. No waiver of any term of this Agreement shall be
               deemed a further or continuing waiver of such term or any other
-              term, and Gulerworks&apos;s failure to assert any right or provision
-              under this Agreement shall not constitute a waiver of such right
-              or provision. YOU AND Gulerworks AGREE THAT ANY CAUSE OF ACTION
-              ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE
-              (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE
-              OF ACTION IS PERMANENTLY BARRED.
+              term, and Gulerworks&apos;s failure to assert any right or
+              provision under this Agreement shall not constitute a waiver of
+              such right or provision. YOU AND Gulerworks AGREE THAT ANY CAUSE
+              OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE
+              WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE,
+              SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
             </p>
 
             <h1 className="text-2xl">Waiver</h1>
             <p>
               Except as provided herein, the failure to exercise a right or to
               require performance of an obligation under this Agreement shall
-              not effect a party&apos;s ability to exercise such right or require
-              such performance at any time thereafter nor shall be the waiver of
-              a breach constitute waiver of any subsequent breach.
+              not effect a party&apos;s ability to exercise such right or
+              require such performance at any time thereafter nor shall be the
+              waiver of a breach constitute waiver of any subsequent breach.
             </p>
             <p>
               o failure to exercise, and no delay in exercising, on the part of
@@ -442,8 +445,8 @@ const TermOfService = () => {
             <p>
               Gulerworks reserves the right, at its sole discretion, to modify
               or replace this Agreement at any time. If a revision is material
-              we will provide at least 30 days&apos; notice prior to any new terms
-              taking effect. What constitutes a material change will be
+              we will provide at least 30 days&apos; notice prior to any new
+              terms taking effect. What constitutes a material change will be
               determined at our sole discretion.
             </p>
             <p>
@@ -632,28 +635,29 @@ const TermOfService = () => {
               Service at any time without prior notice.
             </p>
             <p>
-              The Gulerworks Service and its contents are provided &quot;as is&quot; and
-              &quot;as available&quot; without any warranty or representations of any
-              kind, whether express or implied. Gulerworks is a distributor and
-              not a publisher of the content supplied by third parties; as such,
-              Gulerworks exercises no editorial control over such content and
-              makes no warranty or representation as to the accuracy,
-              reliability or currency of any information, content, service or
-              merchandise provided through or accessible via the Gulerworks
-              Service. Without limiting the foregoing, Gulerworks specifically
-              disclaims all warranties and representations in any content
-              transmitted on or in connection with the Gulerworks Service or on
-              sites that may appear as links on the Gulerworks Service, or in
-              the products provided as a part of, or otherwise in connection
-              with, the Gulerworks Service, including without limitation any
-              warranties of merchantability, fitness for a particular purpose or
-              non-infringement of third party rights. No oral advice or written
-              information given by Gulerworks or any of its affiliates,
-              employees, officers, directors, agents, or the like will create a
-              warranty. Price and availability information is subject to change
-              without notice. Without limiting the foregoing, Gulerworks does
-              not warrant that the Gulerworks Service will be uninterrupted,
-              uncorrupted, timely, or error-free.
+              The Gulerworks Service and its contents are provided &quot;as
+              is&quot; and &quot;as available&quot; without any warranty or
+              representations of any kind, whether express or implied.
+              Gulerworks is a distributor and not a publisher of the content
+              supplied by third parties; as such, Gulerworks exercises no
+              editorial control over such content and makes no warranty or
+              representation as to the accuracy, reliability or currency of any
+              information, content, service or merchandise provided through or
+              accessible via the Gulerworks Service. Without limiting the
+              foregoing, Gulerworks specifically disclaims all warranties and
+              representations in any content transmitted on or in connection
+              with the Gulerworks Service or on sites that may appear as links
+              on the Gulerworks Service, or in the products provided as a part
+              of, or otherwise in connection with, the Gulerworks Service,
+              including without limitation any warranties of merchantability,
+              fitness for a particular purpose or non-infringement of third
+              party rights. No oral advice or written information given by
+              Gulerworks or any of its affiliates, employees, officers,
+              directors, agents, or the like will create a warranty. Price and
+              availability information is subject to change without notice.
+              Without limiting the foregoing, Gulerworks does not warrant that
+              the Gulerworks Service will be uninterrupted, uncorrupted, timely,
+              or error-free.
             </p>
 
             <h1 className="text-2xl">Contact Us</h1>
