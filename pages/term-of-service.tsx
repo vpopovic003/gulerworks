@@ -515,19 +515,12 @@ const TermOfService = () => {
               the name, address, and contact information of the party giving it,
               the facts giving rise to the dispute, and the relief requested.
               You must send any Notice of Dispute via email to: 
-              <a
-                href="/cdn-cgi/l/email-protection"
-                class="__cf_email__"
-                data-cfemail="5e313838373d3b1e392b323b2c29312c352d703d3133"
-              >
-                [email&#160;protected]
-              </a>
-              . Gulerworks will send any Notice of Dispute to you by mail to
-              your address if we have it, or otherwise to your email address.
-              You and Gulerworks will attempt to resolve any dispute through
-              informal negotiation within sixty (60) days from the date the
-              Notice of Dispute is sent. After sixty (60) days, you or
-              Gulerworks may commence arbitration.
+              <a>office@gulerworks.com</a>. Gulerworks will send any Notice of
+              Dispute to you by mail to your address if we have it, or otherwise
+              to your email address. You and Gulerworks will attempt to resolve
+              any dispute through informal negotiation within sixty (60) days
+              from the date the Notice of Dispute is sent. After sixty (60)
+              days, you or Gulerworks may commence arbitration.
             </p>
 
             <h1 className="text-2xl">Binding Arbitration</h1>
