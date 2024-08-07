@@ -42,6 +42,7 @@ const Contact = () => {
             </div>
           </aside>
           {/* <aside
+
             className="w-full sm:w-10/12 md:w-8/12 lg:w-full lg:flex lg:justify-end"
             data-aos="fade-down-left"
           >
