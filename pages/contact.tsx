@@ -24,7 +24,7 @@ const Contact = () => {
               />
             </div>
             <div className="space-y-6">
-              <IconListItem
+              {/* <IconListItem
                 label="Address"
                 value="71-75 Shelton Street, Covent Garden, WC2H9JQ, London, UK"
                 icon={<FaAddressCard />}
@@ -33,7 +33,7 @@ const Contact = () => {
                 label="Phone"
                 value="+44 742 993 5571"
                 icon={<FiPhoneCall />}
-              />
+              /> */}
               <IconListItem
                 label="Email"
                 value="office@gulerworks.com"

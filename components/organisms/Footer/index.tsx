@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-5">
             <NavBrand />
             <div className="">
-              <Text
+              {/* <Text
                 value={`71-75 Shelton Street, Covent Garden, WC2H 9JQ`}
                 textStyle="SectionParagraph"
               />
@@ -19,7 +19,7 @@ const Footer = () => {
                 value={`London, United Kingdom`}
                 textStyle="SectionParagraph"
               />
-              <Text value={`+44-742-993-5571`} textStyle="SectionParagraph" />
+              <Text value={`+44-742-993-5571`} textStyle="SectionParagraph" /> */}
               <Text
                 value={`Copyright © ${new Date().getFullYear()}`}
                 textStyle="SectionParagraph"
